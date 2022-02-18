@@ -4,9 +4,6 @@ Hibernate
 Spring
 Spring boot
 
-microservices
-junit
-
 Thank you....
 
 
